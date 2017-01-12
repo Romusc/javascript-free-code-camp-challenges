@@ -1,0 +1,34 @@
+body {
+  background: #FE807F;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.title-box {
+  margin-bottom: 30px;
+}
+
+.counter {
+  margin-top: 15px;
+  height: 60px;
+}
+
+.dial {
+  margin-top: 15px;
+}
+
+.screen {
+  margin-top: 15px;
+}
+
+.nb {
+  padding-bottom: 55px;
+}
+
+#start-button {
+  border: 1px solid black;
+  margin-top: 30px;
+}
+
+.testos {
+  border: 1px solid black;
+}

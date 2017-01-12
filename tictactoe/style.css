@@ -1,0 +1,69 @@
+body {
+  background: black;
+  color: white;
+  font-family: 'Righteous', cursive;
+}
+
+h1 {
+  margin: auto;
+}
+
+.title {
+  margin-top: 30px;
+}
+
+.game-start {
+  margin: auto;
+}
+
+.board {
+  margin-top: 40px;
+  height: 500px;
+}
+
+
+.player-selector {
+  background: black;
+  border: 2px solid white;
+}
+
+.player-selector:hover {
+  filter: invert(.8);
+}
+
+.token-selector {
+  background: black;
+  border: 2px solid white;
+}
+
+.token-selector:hover {
+  filter: invert(.8);
+}
+
+.hidden {
+  content:hidden;
+}
+
+.square {
+  background-color: #b1afbd;
+  height: 115px;
+  width: 115px;
+/*  border: solid 5px white; */
+  box-shadow: 1px 1px 3px 0px black inset, -1px -1px 0px 0px #43241d inset;
+  text-align: center;
+  line-height: 127px;
+  font-size: 100px;
+  text-transform: uppercase;
+  border-radius: 10px;
+  padding-top: 39px;
+  color: black;
+  font-size: 200px;
+}
+
+.token {
+
+}
+
+.player-box {
+  margin-top: 20px;
+}

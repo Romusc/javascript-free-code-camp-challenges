@@ -1,0 +1,33 @@
+body {
+  background: #F0FFFF;
+}
+
+#quoter {
+  border: 1px solid gray;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 20px;
+}
+
+.quote-title {
+    font-family: 'Sue Ellen Francisco', cursive;
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+.quote-content {
+    font-family: 'Sue Ellen Francisco', cursive;
+  font-size: 40px;
+  font-weight: lighter;
+}
+
+.quote-box {
+  margin-top: 40px;
+}
+
+#btn-tweet {
+  font-size: 40px;
+}
+
+i:hover {
+  color: #1da1f2;
+}

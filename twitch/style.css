@@ -1,0 +1,19 @@
+body {
+  background: #FFF8DC;
+  font-family: 'Russo One', sans-serif;
+}
+
+h1 {
+  color: #6441A4;
+}
+
+.box-active {
+  background: #98FB98;
+  margin: 5px;
+  color: #6441A4;
+}
+
+.box-inactive {
+  background: #FF9999;
+  margin: 5px;
+}

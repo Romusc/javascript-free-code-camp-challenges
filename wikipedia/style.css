@@ -1,0 +1,19 @@
+body {
+  font-family: 'Frank Ruhl Libre', sans-serif;
+}
+
+.box {
+/*   border-radius: 10px; */
+/*   background: #DCDCDC; */
+  margin: 10px;
+  border-bottom: 2px solid #A9A9A9;
+}
+
+#btn-test {
+  background: #DCDCDC;
+}
+
+#btn-test:hover {
+  background:   #696969;
+  color: white;
+}
